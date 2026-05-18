@@ -6,8 +6,8 @@ An online library platform where users can browse, borrow, and read books — bu
 
 ## Screenshots
 
-![Login Page](login.png)
-![Book Page](book.png)
+![Login Page](screenshots/login.png)
+![Book Page](screenshots/book.png)
 
 ---
 
